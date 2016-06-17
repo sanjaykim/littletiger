@@ -1,9 +1,9 @@
 nguage: python
 python:
-- "3.5"
+  - "3.5"
 install:
-- pip install -r requirements.txt
+  - pip install -r requirements.txt
 script:
-- pep8
+  - pep8
 notifications:
-slack: datascienceschool2nd:NYIzIk2K80x4K2SmRrcmUujd
+  slack: datascienceschool2nd:NYIzIk2K80x4K2SmRrcmUujd
