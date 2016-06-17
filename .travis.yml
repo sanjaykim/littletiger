@@ -3,6 +3,5 @@ python:
   - "3.5"
 install:
 script:
-  - pep8 .
 notifications:
   slack: datascienceschool2nd:NYIzIk2K80x4K2SmRrcmUujd
