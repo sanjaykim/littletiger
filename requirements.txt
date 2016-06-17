@@ -1,0 +1,4 @@
+pep8
+numpy
+requests
+pandas
